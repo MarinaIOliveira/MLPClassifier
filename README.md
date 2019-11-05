@@ -1,2 +1,4 @@
 # MLPClassifier
-Fede Perceptron Multicamadas (MLP)
+Rede Perceptron Multicamadas (MLP)
+
+Com a evolução de tecnologias, cada vez mais pessoas possuem acesso a internet e a informações. Toda essa praticidade permite pessoas adquirir e vender produtos e serviços com facilidade e qualidade. Porém, os consumidores de hoje estão cada vez mais exigentes em relação ao que lhe é oferecido, aumentando assim o trabalho dos fornecedores quanto a atrair o seu cliente. Os consumidores precisam lidar com diversos perfis de interesse de clientes a fim de se sobressair quanto aos seus concorrentes. Por meio de algoritmos de classificação, é possível criar padrões para recomendações de serviços e produtos. O objetivo desse trabalho é aplicar redes neurais artificiais, para classificação de produtos vendidos em um e-commerce brasileiro e analisar o desempenho do modelo em relação a base de dados.
